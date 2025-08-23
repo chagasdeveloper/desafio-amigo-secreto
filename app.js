@@ -7,4 +7,14 @@ function adicionarAmigo(){
         amigos.push(nomeDoAmigo);
         document.querySelector('input').value = "";
     }
+    atualizarLista();
+}
+function atualizarLista() {
+    let listaAmigos = document.getElementById('listaAmigos'); 
+    listaAmigos.innerHTML = ""; 
+    for (let i = 0; i < amigos.length; i++) {
+        let novoAmigo = document.createElement('li');
+        novoAmigo.textContent = amigos[i];
+        listaAmigos.appendChild(novoAmigo);
+    }
 }
