@@ -18,3 +18,13 @@ function atualizarLista() {
         listaAmigos.appendChild(novoAmigo);
     }
 }
+function sortearAmigo (){
+    if (amigos.length != 0) {
+        let amigoSorteado = Math.floor(Math.random() * amigos.length);
+        let listaResultado = document.getElementById('resultado'); 
+        listaResultado.innerHTML = ""; 
+        let elementoSorteado = document.createElement('li');
+        elementoSorteado.textContent = amigos[amigoSorteado];
+        listaResultado.appendChild(elementoSorteado);
+    }
+}
