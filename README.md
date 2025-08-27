@@ -5,7 +5,7 @@ Um projeto front-end desenvolvido para simular o sorteio de **Amigo Secreto** de
 O desafio consiste em inserir nomes de amigos, e sortear um para ser o amigo secreto. 
 
 ---
-
+[Acessar o projeto no github pages](https://chagasdeveloper.github.io/desafio-amigo-secreto/)
 
 
 ## 🛠 Tecnologias
