@@ -16,16 +16,18 @@ Este projeto foi construído utilizando:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
 </p>
-## 📷 Telas 
 
 ### Tela Inicial
-![Tela Inicial](./assets/tela-inicial.png)
+![Tela Inicial](./assets/tela_inicial.png)
 
 ### Adicionando amigos  
-![Lista de Participantes](./assets/lista-participantes.png)
+![Lista de Participantes](./assets/adicionando_amigos.png)
+
+### Lista de amigos 
+![Lista de Participantes](./assets/amigos_salvos.png)
 
 ### Resultado do Sorteio
-![Resultado](./assets/resultado-sorteio.png)
+![Resultado](./assets/amigo_sorteado.png)
 ---
 ## 🌐 Redes Sociais
 <p align="left">
